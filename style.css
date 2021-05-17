@@ -1,0 +1,13 @@
+body {
+  background-color: coral;
+  text-align: center;
+}
+
+h1 {
+  text-shadow: 2px 2px 2px #7af00c;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
