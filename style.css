@@ -10,4 +10,11 @@ h1 {
 .container {
   margin: 0 auto;
   text-align: center;
+  width: 50%;
+  border: 1px solid rgb(248, 204, 8);
+}
+
+h4 {
+  color: gold;
+  text-shadow: 2px 2px 2px #000;
 }
